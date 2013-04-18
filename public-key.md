@@ -1,0 +1,9 @@
+---
+layout: default
+---
+# Public Key
+
+Just in case you need it.
+
+    ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAulLeuhzi6KgXKl/qrjdXS2AG8Sf61NE98E8ZE5ZVzRz8U6O0pkcTwLKf0CT0FJK3+8RyYRMLfh0aCz949i9M/SJ8h+ds/wBZuDE0HSIZ/6w715pW389G7p6jl/kscnvufrSLoW++B20d67muIIGbjz3gbtQmK1w8VZAPV7pOAAtccJAZ9q9HVK8kCVicP2qjE1tNKrF0kxHyR9inHgqjw9KwaMbG+xAHLWTtqRNfoIzRBxLYZXWv+7GqJWpRZXKulCHjPkVEA2IZys/jWVNpv593aBbyDioP3XRVPb0Makcb6gOxNTOTfILsiWLErPBLd6ZtdZ+CTJCqJQDHhZSW5w== 
+
